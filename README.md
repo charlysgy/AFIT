@@ -19,3 +19,6 @@ Function that perform a modulus operation, the first integer is the one on which
 
 val div : int -> int -> int * int = <fun>
 Function that return the result of quot and modulo for the two given integers
+
+### basic_arithmetics.ml
+val gdc int -> int -> int = \<fun\> Function that compute the gcd of two given integers
